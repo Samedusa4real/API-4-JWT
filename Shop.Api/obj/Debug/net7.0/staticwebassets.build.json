@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "q7gxIQ04oiKhTS1D1FpBgakYdOV7qwz1YldairPn89c=",
+  "Source": "Shop.Api",
+  "BasePath": "_content/Shop.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Shop.Api\\wwwroot",
+      "Source": "Shop.Api",
+      "ContentRoot": "C:\\Users\\Samedusa\\Desktop\\API-3-Shop\\Shop.Api\\wwwroot\\",
+      "BasePath": "_content/Shop.Api",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Samedusa\\Desktop\\API-3-Shop\\Shop.Api\\wwwroot\\uploads\\mm1.png",
+      "SourceId": "Shop.Api",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Samedusa\\Desktop\\API-3-Shop\\Shop.Api\\wwwroot\\",
+      "BasePath": "_content/Shop.Api",
+      "RelativePath": "uploads/mm1.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\mm1.png"
+    }
+  ]
+}
